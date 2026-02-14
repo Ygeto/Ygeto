@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ygeto/Ygeto/main/ezgif-5acf03aef6e043b.gif" width="100%" />
+</p>
 
-<!--
-**Ygeto/Ygeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ertuğrul Özen</h1>
+<h3 align="center">Future Elite Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+```bash
+Name: Ertuğrul Özen
+Age: 23
+Role: Full Stack Developer (in progress)
+Focus: Discipline > Motivation
+Mission: Become elite level software engineer
+Status: Code Mode Activated 🚀
+
+⚙️ Tech Stack (Growing...)
+
+💻 HTML / CSS / JavaScript
+
+🧠 React (Learning)
+
+🐍 Python
+
+⚡ Git & GitHub
+
+🗄️ SQL
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ygeto&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ygeto&theme=tokyonight" /> </p>
+
+🏆 2026 Goal
+
+🔥 Build real world projects
+
+🔥 Master React
+
+🔥 Master Backend
+
+🔥 Build SaaS
+
+🔥 No excuses
+
+<p align="center"> ⚡ Discipline builds empires ⚡ </p> ```
