@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ezgif-5acf03aef6fe043b.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ygeto/Ygeto/main/ezgif-5acf03aef6e043b.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -8,6 +8,9 @@
 
 <h1 align="center">Ertuğrul Özen</h1>
 <h3 align="center">Future Elite Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discipline+%3E+Motivation;Code.+Build.+Repeat.;No+Excuses." />
+</p>
 
 ---
 
@@ -21,26 +24,21 @@ Focus: Discipline > Motivation
 Mission: Become elite level software engineer
 Status: Code Mode Activated 🚀
 
-⚙️ Tech Stack (Growing...)
+<h2 align="center">⚙️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,mysql" />
+</p>
 
-💻 HTML / CSS / JavaScript
 
-🧠 React (Learning)
+<h2 align="center">📊 GitHub Stats</h2>
 
-🐍 Python
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ygeto&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-⚡ Git & GitHub
-
-🗄️ SQL
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ygeto&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ygeto&theme=tokyonight" /> </p>
-
-🏆 2026 Goal
-
-🔥 Build real world projects
-
-🔥 Master React
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ygeto&theme=tokyonight&hide_border=true" />
+</p>
 
 🔥 Master Backend
 
