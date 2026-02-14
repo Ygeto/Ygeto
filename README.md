@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/Ygeto/Ygeto/main/ezgif-5acf03aef6e043b.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ygeto/Ygeto/main/ezgif-5acf03aef6e043b.gif" width="100%" />
+</p>
+
 <h1 align="center">Ertuğrul Özen</h1>
 <h3 align="center">Future Elite Full Stack Developer</h3>
 
